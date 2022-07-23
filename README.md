@@ -1,2 +1,3 @@
 %naslov
-opis projekta
+
+opis projekta koji je bolji
